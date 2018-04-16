@@ -38,6 +38,7 @@
         }
     },
     "prefer-stable": true,
+    "minimum-stability": "dev",
     "autoload-dev": {
         "classmap": ["tests/Application/app/AppKernel.php"]
     },
